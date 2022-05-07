@@ -1,23 +1,16 @@
 ---
 id: qk4etuwfa2k6szfvtayy4c4
-title: Root
+title: Pin 起來的 Wiki
 desc: ''
-updated: 1651915709500
+updated: 1651917858380
 created: 1651915162827
 ---
-# Welcome to Dendron
+歡迎來到 Pin 起來的 Wiki page，這邊目前還在建構中，如果你有任何好想法或想知道的事，歡迎來信 mimir@hey.com 跟我說！
+在本頁面開始正式運作之前，歡迎先瀏覽我的部落格 [Pin 起來](https://pinchlime.com)。
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+你可以先看看幾個常用連結：
 
-## Lookup
+- [[about-this-wiki]]
+- [[Literature notes]]
+- [[Daily Journals]]
 
-This section contains useful links to related resources.
-
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
-
-連結：
-- [[steps]]
