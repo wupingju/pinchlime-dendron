@@ -99,7 +99,10 @@ publishing:
           url: https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-wiki-logo_YXux4b.webp
           alt: The logo of Pinclime's Wiki
     github:
-        enableEditLink: false
+        enableEditLink: true
+        editLinkText: 在 Github 上編輯或回覆。
+        editViewMode: tree
+        editRepository: 
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: true
