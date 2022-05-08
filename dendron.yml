@@ -90,8 +90,6 @@ publishing:
         - book
     writeStubs: false
     siteRootDir: docs
-    ga:
-        tracking: G-24ME1NN034
     seo:
         title: Pinchlime's Wiki
         description: Pinchlime's Wiki page
