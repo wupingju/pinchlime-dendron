@@ -85,7 +85,10 @@ publishing:
     enableKatex: false
     copyAssets: false
     siteHierarchies:
-        - root
+        - home
+        - about-this-wiki
+        - daily
+        - book
     writeStubs: false
     siteRootDir: docs
     seo:
