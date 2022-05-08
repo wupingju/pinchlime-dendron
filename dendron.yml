@@ -102,14 +102,14 @@ publishing:
         enableEditLink: true
         editLinkText: 在 Github 上編輯或回覆。
         editViewMode: tree
-        editRepository: 
+        editRepository: https://github.com/wupingju/pinchlime-dendron
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: true
     enableRandomlyColoredTags: false
     enablePrettyLinks: true
     enableHierarchyDisplay: true
-    hierarchyDisplayTitle: 子條目
+    hierarchyDisplayTitle: Table of Content
     duplicateNoteBehavior:
         action: useVault
         payload:
