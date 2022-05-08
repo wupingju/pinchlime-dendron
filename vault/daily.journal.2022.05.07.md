@@ -8,7 +8,7 @@ traitIds:
   - journalNote
 ---
 
-## [[daily.daily-why]]
+## [[daily.why]]
 
 ### 為何技術文件很容易過時？
 - 今天在透過 Dendron 的官方文件學習 publish 功能時，走了不少彎路，一直卡在一個 bug 裡面，後來我幾乎是逐步驟測試，才發現出現問題的步驟是什麼。
@@ -17,7 +17,7 @@ traitIds:
 - 希望以後的自己有能力回答這些問題。 ^8gir3mijqw25
 
 
-## [[daily.what-i-learnt-today]]
+## [[daily.what-i-learned-today]]
 
 ### Dendron 輸出靜態網站到 Netlify 的方式
 - 今天一整天都在嘗試使用 Dendron 建構目前看到的這個網站，詳細的步驟之後再來分享，中間遇到了好幾次障礙，差點想放棄。

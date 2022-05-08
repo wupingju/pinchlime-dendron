@@ -8,7 +8,7 @@ traitIds:
   - journalNote
 ---
 
-## [[daily.what-i-learnt-today]]
+## [[daily.what-i-learned-today]]
 
 ### 網站可靠性工程師 Site Reliability Engineer (SRE) 
 - 學到 網站可靠性工程師 Site Reliability Engineer (SRE) 這個概念，來自 [SRE 的工作介绍 | 卡瓦邦噶！](https://www.kawabangga.com/posts/4481) ，覺得本文將 SRE 講得非常好懂，分類上分成 infrastructure , platform , 業務，也很好理解，而且三者之間是有業務上的層級關係的。 

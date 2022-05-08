@@ -8,7 +8,7 @@ traitIds:
   - journalNote
 ---
 
-## [[daily.what-i-learnt-today]]
+## [[daily.what-i-learned-today]]
 
 ### 學習如何建構一個 Tiddlywiki
 - 參考資料：
@@ -24,7 +24,7 @@ traitIds:
   - 為了設定回到 global 的 path ，看了這篇的第一個解答： https://stackoverflow.com/questions/14803978/npm-global-path-prefix
 - 心得：感覺生成靜態網站後速度很快，但不確定跟 logseq 搭配薛丁格套件哪個比較簡單執行。 ^c79hr7bslcdh
 
-## [[daily.daily-why]]
+## [[daily.why]]
 
 ### 為何想每天分享 Book quotes？
 1. 覺得大家都喜歡看書的精華內容，覺得這種內容或許會有市場。

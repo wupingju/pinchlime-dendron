@@ -8,7 +8,7 @@ traitIds:
   - journalNote
 ---
 
-## [[daily.what-i-learnt-today]]
+## [[daily.what-i-learned-today]]
 
 ### DNS 的概念
 - 從 Mess with dns 看到 [DNS dictionary](https://messwithdns.net/dictionary.html) 這個頁面，簡單介紹了幾個不同的 DNS 術語概念，覺讚。

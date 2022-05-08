@@ -23,7 +23,7 @@ traitIds:
     4. 輸出的網頁有辦法自訂一些 metadata
 - 結論：我再研究（慢慢等）看看好惹 ^818ahyfphou8
 
-## [[daily.daily-why]]
+## [[daily.why]]
 
 ### 為何想建立一個自己的 wiki site？
 1. 實踐 Learn in public 的概念

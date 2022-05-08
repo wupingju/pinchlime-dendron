@@ -8,7 +8,7 @@ traitIds:
   - journalNote
 ---
 
-## [[daily.what-i-learnt-today]]
+## [[daily.what-i-learned-today]]
 
 ### madawei 的 [Twitter 增長分享](https://t.me/bmpi365/453)
 - 這篇提到幾個 Twitter 增長的關鍵：
@@ -17,7 +17,7 @@ traitIds:
 	- 個人的部落格有圖盡可能配圖，並寫一段總結性的推文
 	- 少即是多，和個人關注領域無關的資訊可以少發。 ^peoxt0rxkrby
 
-## [[daily.daily-why]]
+## [[daily.why]]
 
 ### Why ask why?
 今天看了[[book.發現問題思考法]]後，決定開始嘗試每天問自己一個 Why，並且嘗試回答看看。藉此找出更多上位的概念。第一天的 Why 就來問  「Why ask why?」
