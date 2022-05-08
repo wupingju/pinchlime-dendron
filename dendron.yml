@@ -100,8 +100,9 @@ publishing:
           alt: The logo of Pinclime's Wiki
     github:
         enableEditLink: true
-        editLinkText: 在 Github 上編輯或回覆。
+        editLinkText: 在 Github 上編輯或回覆
         editViewMode: tree
+        editBranch: master
         editRepository: https://github.com/wupingju/pinchlime-dendron
     enableSiteLastModified: true
     enableFrontmatterTags: true
