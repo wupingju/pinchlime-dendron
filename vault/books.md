@@ -1,6 +1,6 @@
 ---
 id: sq9swks7lkr0ekte5sjr2hy
-title: Book
+title: Books
 desc: ''
 updated: 1651989873540
 created: 1651984068981
