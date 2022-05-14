@@ -87,7 +87,8 @@ publishing:
     siteHierarchies:
         - home
         - daily
-        - book
+        - books
+        - evergreen
     writeStubs: false
     siteRootDir: docs
     seo:
