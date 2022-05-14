@@ -2,7 +2,7 @@
 id: dj8ck4f8o966b0k4legbuuw
 title: '2022-05-09'
 desc: ''
-updated: 1652191761586
+updated: 1652520677095
 created: 1652107590812
 traitIds:
   - journalNote
@@ -21,7 +21,7 @@ traitIds:
 
 ## [[daily.book-quotes]]
 
-### [[book.你會問問題嗎]]
+### [[book.你會問問題嗎.quotes]]
 
 #### 提出挑戰性問題的困難 p.80 #Tweeted
 - 「提出挑戰性的問題需要冒險，偶爾還會起衝突及引起不安，主要是因為揭開隱藏在問題底下的真正爭議，可能會完全打破原來已根深蒂固的規矩準則。」——《你會問問題嗎？》 

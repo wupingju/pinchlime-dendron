@@ -2,7 +2,7 @@
 id: iy2hyxfjiyrn0pjx1vohb9o
 title: '2022-05-10'
 desc: ''
-updated: 1652197389491
+updated: 1652520784628
 created: 1652189914858
 traitIds:
   - journalNote
@@ -11,7 +11,7 @@ traitIds:
 
 ## [[daily.book-quotes]]
 
-### [[book.創造的本源]]
+### [[book.創造的本源.quotes]]
 
 #### 同理心 p.15
 - 「穩定社會中最成功的成員都擁有很強的同理心，它能看到其他成員眼中所見的事物，感受其他成員內心發生的情緒，並能精準地採取恰當的回應行為——何時向前，何時後退，給哪位梳毛，避開哪位，向誰發起挑戰，與誰達成和解等。」
