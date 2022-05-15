@@ -2,19 +2,11 @@
 id: eynsqrus5ur5phkly3u1e5c
 title: '2022-04-23'
 desc: ''
-updated: 1651940183307
+updated: 1652622730404
 created: 1651939181572
 traitIds:
   - journalNote
 ---
-
-## [[daily.what-i-learned-today]]
-
-### DNS 的概念
-- 從 Mess with dns 看到 [DNS dictionary](https://messwithdns.net/dictionary.html) 這個頁面，簡單介紹了幾個不同的 DNS 術語概念，覺讚。
-
-### 演算法的宿命
-- Benedict Evans 分享了他四年前寫的 [The death of the newsfeed — Benedict Evans](https://www.ben-evans.com/benedictevans/2018/4/2/the-death-of-the-newsfeed) ，提到對於任何 social app 來說，依照時序排序的動態牆都終將需要演算法，而演算法終將讓使用者厭煩。（ Tiktok 似乎不是，可能因為他不是那麼 "Social" ？）。 ^qu11p8psm6co
 
 ## [[daily.what-i-found-interesting]]
 

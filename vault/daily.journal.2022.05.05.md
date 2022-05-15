@@ -2,15 +2,16 @@
 id: 9f76ngh13tdfp8s9m5wyq1n
 title: '2022-05-05'
 desc: ''
-updated: 1652520588205
+updated: 1652622400163
 created: 1651935268100
 traitIds:
   - journalNote
 ---
 
-## [[daily.what-i-learned-today]]
+## [[daily.how]]
 
-### 學習如何建構一個 Tiddlywiki
+### 如何建構一個 Tiddlywiki
+- 今天簡單嘗試建立一個 Tiddlywiki，紀錄一下一些參考資料
 - 參考資料：
   - NESSLABS 的
     - [How to build a digital garden with TiddlyWiki - Ness Labs](https://nesslabs.com/digital-garden-tiddlywiki)

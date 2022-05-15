@@ -2,20 +2,18 @@
 id: h5e7ffb58vexcvmmg9tdcfk
 title: '2022-05-08'
 desc: ''
-updated: 1652023435845
+updated: 1652622185845
 created: 1651984755552
 traitIds:
   - journalNote
 ---
 
-## [[daily.what-i-learned-today]]
+## [[daily.how]]
 
-### Dendron 的自訂排序功能
+### 如何在 Dendron 發布時自訂排序？
+
 - 可以在 dendron.yml 裡面設定 siteHierarchies ，把 root 改成自己想要的階層。
-- 可以在個別文件的 yaml 欄位設定 "nav_order" 來改變在導覽列的排序，我透過這功能把 Daily 裡面的 Journal 改到第一個，其他項目則排在下方。
-
-### 嘗試將肯定句後面加上問號
-- 在看 [[books.你會問問題嗎]] 的時候，有提到一小段有趣的建議：將某些章節標題的肯定句改寫成問句，光是這件事就會更加促進我們思考，並且可以從原先的章節裡面學到更多（或懷疑更多）。 ^c583e2huchxr
+- 可以在個別文件的 yaml 欄位設定 "nav_order" 來改變在導覽列的排序，我透過這功能把 Daily 裡面的 Journal 改到第一個，其他項目則排在下方。 ^oycs7ac882m7
 
 ## [[daily.random-thoughts]]
 
@@ -42,6 +40,9 @@ traitIds:
 但以個別筆記來說，Journal 裡的內容仍可以擁有彈性，並且可以透過 tags, backlinks 以及 embed notes （在 Dendron 裡面叫做 note references）來達成交互參照以及讓同一筆記出現在不同地方的需求。 ^0zk9wjyrtze0
 
 ## [[books.你會問問題嗎.reading-notes]]
+
+### 嘗試將肯定句後面加上問號
+- 在看 [[books.你會問問題嗎]] 的時候，有提到一小段有趣的建議：將某些章節標題的肯定句改寫成問句，光是這件事就會更加促進我們思考，並且可以從原先的章節裡面學到更多（或懷疑更多）。
 
 ### 應該區分問題是 Why、How 還是 What
 - 快速看完前兩章，最後一段都有提供 10 個跟該章節有關的「問題思考」，我想了一下最想回答的問題只有「我會對什麼人提出問題？為什麼？」結果轉念一想發現，這 20 個問題裡面只有這是一個「Why」的問題。

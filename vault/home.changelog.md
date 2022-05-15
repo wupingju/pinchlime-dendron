@@ -2,7 +2,7 @@
 id: j36gh6x6yf4u7nuupkcxzn7
 title: Changelog
 desc: ''
-updated: 1652546449681
+updated: 1652622827069
 created: 1652530546551
 ---
 
@@ -26,6 +26,9 @@ created: 1652530546551
 
 - 新增了 [[evergreen]] 的主分類層級。
 
+### Changed
+
+- 將 What I Learned Today 頁面分拆為 [[daily.what]] 以及 [[daily.how]]。
 
 ---
 
