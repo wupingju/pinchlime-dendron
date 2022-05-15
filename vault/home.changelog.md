@@ -2,7 +2,7 @@
 id: j36gh6x6yf4u7nuupkcxzn7
 title: Changelog
 desc: ''
-updated: 1652622827069
+updated: 1652630072255
 created: 1652530546551
 ---
 
@@ -20,11 +20,19 @@ created: 1652530546551
 
 ---
 
+## To Fix & To Do（之後會想辦法處理的事）
+
+- 若被首頁連結的頁面，在 backlinks 想要連回首頁時，會出現 404 錯誤，因為首頁的路徑是 https://wiki.pinchlime.com 而不是其他 notes 的聯結路徑。 （2022.05.15）
+
+
+---
+
 ## [1.3.0] - 2022-05-15
 
 ### Added 
 
 - 新增了 [[evergreen]] 的主分類層級。
+- 新增了 [[evergreen.workbench]] 這個子分類，放置那些我覺得有機會發展為 Evergreen notes 的零散想法。
 
 ### Changed
 

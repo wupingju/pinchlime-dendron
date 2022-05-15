@@ -2,7 +2,7 @@
 id: lyvcn6oa84tc3bv9ygr5w18
 title: Pin 起來的 Wiki
 desc: ''
-updated: 1652622859106
+updated: 1652630433132
 created: 1651989691930
 nav_order: 1
 ---
@@ -23,6 +23,3 @@ nav_order: 1
 - [[daily.how]]
 - [[daily.what]]
 - [[daily.why]]
-
-每日的紀錄：
-- [[daily.journal]]
