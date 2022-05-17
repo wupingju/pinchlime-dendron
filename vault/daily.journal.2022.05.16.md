@@ -2,7 +2,7 @@
 id: x86hzgpphosf7657ufehhcu
 title: '2022-05-16'
 desc: ''
-updated: 1652714613355
+updated: 1652802594407
 created: 1652709922142
 traitIds:
   - journalNote
@@ -37,5 +37,5 @@ traitIds:
 
 但今天若問自己這個問題，我的回答比較會像是：
 1. 電子報的固定形式有助於產出內容
-2. 持續寫電子報能經營個人品牌
-3. 電子報可以直達收信者的小天地  ^ckkqu3syv1ta
+2. 持續寫電子報有助於經營個人品牌
+3. 電子報的優點是可以直達收信者的信箱  ^ckkqu3syv1ta
