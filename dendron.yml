@@ -111,7 +111,6 @@ publishing:
     enableRandomlyColoredTags: false
     enablePrettyLinks: true
     enableHierarchyDisplay: false
-    hierarchyDisplayTitle: Table of Content
     duplicateNoteBehavior:
         action: useVault
         payload:
