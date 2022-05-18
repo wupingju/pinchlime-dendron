@@ -110,7 +110,7 @@ publishing:
     enableHashesForFMTags: true
     enableRandomlyColoredTags: false
     enablePrettyLinks: true
-    enableHierarchyDisplay: true
+    enableHierarchyDisplay: false
     hierarchyDisplayTitle: Table of Content
     duplicateNoteBehavior:
         action: useVault

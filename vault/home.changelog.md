@@ -2,7 +2,7 @@
 id: j36gh6x6yf4u7nuupkcxzn7
 title: Changelog
 desc: ''
-updated: 1652630072255
+updated: 1652887838716
 created: 1652530546551
 ---
 
@@ -22,8 +22,14 @@ created: 1652530546551
 
 ## To Fix & To Do（之後會想辦法處理的事）
 
-- 若被首頁連結的頁面，在 backlinks 想要連回首頁時，會出現 404 錯誤，因為首頁的路徑是 https://wiki.pinchlime.com 而不是其他 notes 的聯結路徑。 （2022.05.15）
+- [ ] 若被首頁連結的頁面，在 backlinks 想要連回首頁時，會出現 404 錯誤，因為首頁的路徑是 https://wiki.pinchlime.com 而不是其他 notes 的聯結路徑。 （2022.05.15）
 
+## [1.3.1] - 2022-05-18
+
+### Changed
+
+- [x] 想把主要頁面的「children」拿掉，避免太多太混亂。（2022.05.18）
+    - 今天在 Dendron 的 discord 提問，沒過多久就得到解答：只要把 dendron.yml 裡面的 `enableHierarchyDisplay` 設定為 false 就好了。
 
 ---
 
