@@ -89,6 +89,8 @@ publishing:
         - daily
         - books
         - evergreen
+        - tools
+        - workflows
     writeStubs: false
     siteRootDir: docs
     seo:

@@ -2,7 +2,7 @@
 id: j36gh6x6yf4u7nuupkcxzn7
 title: Changelog
 desc: ''
-updated: 1652887838716
+updated: 1653653263962
 created: 1652530546551
 ---
 
@@ -24,12 +24,26 @@ created: 1652530546551
 
 - [ ] 若被首頁連結的頁面，在 backlinks 想要連回首頁時，會出現 404 錯誤，因為首頁的路徑是 https://wiki.pinchlime.com 而不是其他 notes 的聯結路徑。 （2022.05.15）
 
+---
+
+## [1.4.0] - 2022-05-27
+
+### Added
+
+- 新增了 [[tools]] 的主分類層級
+- 新增了 [[workflows]] 的主分類連結
+
+想透過這兩個類別，建立一個能持續更新的工具箱索引，提供基本的資訊，再導連回 [Pin起來的工具箱](https://pinchlime.com/toolbox)
+
+
+---
+
 ## [1.3.1] - 2022-05-18
 
 ### Changed
 
 - [x] 想把主要頁面的「children」拿掉，避免太多太混亂。（2022.05.18）
-    - 今天在 Dendron 的 discord 提問，沒過多久就得到解答：只要把 dendron.yml 裡面的 `enableHierarchyDisplay` 設定為 false 就好了。
+    - 今天在 Dendron 的 discord 提問，沒過多久就得到解答：只要把 dendron.yml 裡面的 `enableHierarchyDisplay` 設定為 false 就好了。（後來發現這樣改還是無法解決我的問題，但回報後 Dendron 說這是 bug，等修完了再來更新。）
 
 ---
 
