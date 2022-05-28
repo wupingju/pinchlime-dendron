@@ -2,7 +2,7 @@
 id: x86hzgpphosf7657ufehhcu
 title: '2022-05-16'
 desc: ''
-updated: 1653489531528
+updated: 1653710359958
 created: 1652709922142
 traitIds:
   - journalNote
@@ -18,7 +18,7 @@ traitIds:
 
 這服務的收費方式是「按 List 大小」計費，目前的計費標準如下圖：
 
-![](https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/enrich-my-list_ucqxJZ.webp)。
+![](https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/enrich-my-list_ucqxJZ.webp)
 
 我覺得這服務有趣的點在於，他解決了某種懶惰又真實存在的需求：
 「我想知道誰追蹤我、誰訂閱我，但我沒力氣一個一個去肉搜」
