@@ -2,7 +2,7 @@
 id: 9f76ngh13tdfp8s9m5wyq1n
 title: '2022-05-05'
 desc: ''
-updated: 1652622400163
+updated: 1653709404288
 created: 1651935268100
 traitIds:
   - journalNote
@@ -34,7 +34,7 @@ traitIds:
 
 ## [[daily.book-quotes]]
 
-### [[books.哈佛這樣教談判力.quotes]]
+### [[books.哈佛這樣教談判力]]
 
 #### 原則性談判的四個基本要點 p.47-49 #Tweeted
 - 原則性談判（principled negotiation）可拆成四個基本要點：

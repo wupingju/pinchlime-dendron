@@ -2,7 +2,7 @@
 id: mkfn9dr0ko9rqvnqh2mpn4a
 title: '2022-05-04'
 desc: ''
-updated: 1652622501192
+updated: 1653709386291
 created: 1651937504660
 traitIds:
   - journalNote
@@ -31,7 +31,7 @@ traitIds:
 
 ## [[daily.book-quotes]]
 
-### [[books.發現問題思考法.quotes]]
+### [[books.發現問題思考法]]
 
 #### 抱怨與自誇 p.234 #Tweeted
 - 「人類只會以自我為中心去思考，這很可悲。覺得只有自己是特殊的，只有自己吃虧了，覺得別人不理解自己，甚至全沒意識到是自己想偏了。最想對別人說的是抱怨和自誇，最不想聽別人說的也是這兩樣。」 — 《發現問題思考法》
