@@ -2,10 +2,11 @@
 id: 7ete84z1cbrmjnuo5s4q0b3
 title: Random Thoughts
 desc: ''
-updated: 1653751537128
+updated: 1653833072782
 created: 1651938779927
 ---
 
+![[daily.journal.2022.05.29#dailyrandom-thoughts,1:#^fomkvl6nuoys]]
 ![[daily.journal.2022.05.28#dailyrandom-thoughts,1:#^xvds6d3byzt7]]
 ![[daily.journal.2022.05.27#dailyrandom-thoughts,1:#^ksbpuj0i86rk]]
 ![[daily.journal.2022.05.21#dailyrandom-thoughts,1:#^ce3571gh198o]]
