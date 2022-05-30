@@ -2,7 +2,7 @@
 id: xf48hedybgqs1f92sknv0z7
 title: Daily Why
 desc: 我期待透過持續的練習提問，找出更多「更應該被解決的本質問題」
-updated: 1653833149132
+updated: 1653924649985
 created: 1651928732968
 ---
 
@@ -16,6 +16,7 @@ Daily why 這個頁面下方會引用我在 Daily Journals 裡面問自己的各
 
 ---
 
+![[daily.journal.2022.05.30#dailywhy,1:#^wnxxgqt9kgzy]]
 ![[daily.journal.2022.05.29#dailywhy,1:#^vpozupvhk3nu]]
 ![[daily.journal.2022.05.28#dailywhy,1:#^jytfq3m2sto5]]
 ![[daily.journal.2022.05.27#dailywhy,1:#^caygb3qn8loj]]
