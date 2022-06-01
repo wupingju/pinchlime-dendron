@@ -120,7 +120,7 @@ publishing:
     enableHashesForFMTags: true
     enableRandomlyColoredTags: false
     enablePrettyLinks: true
-    enableHierarchyDisplay: false
+    enableHierarchyDisplay: true
     duplicateNoteBehavior:
         action: useVault
         payload:
