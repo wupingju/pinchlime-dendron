@@ -52,6 +52,9 @@ workspace:
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
+        taskCompleteStatus:
+            - done
+            - x
     graph:
         zoomSpeed: 1
     enableAutoCreateOnDefinition: false
@@ -65,6 +68,8 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     enableFullHierarchyNoteTitle: false
+    enableHandlebarTemplates: false
+    templateHierarchy: template
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -76,8 +81,10 @@ preview:
     automaticallyShowPreview: false
 publishing:
     siteUrl: https://wiki.pinchlime.com
-    logoPath: https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-wiki-logo_ispRXg.webp
-    siteFaviconPath: https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-wiki-favicon_1ufxoX.webp
+    logoPath: >-
+        https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-wiki-logo_ispRXg.webp
+    siteFaviconPath: >-
+        https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-wiki-favicon_1ufxoX.webp
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: false
@@ -98,9 +105,10 @@ publishing:
         description: Pinchlime's Wiki page
         author: P.J. Wu
         twitter: https://twitter.com/WuPingJu
-        image: 
-          url: https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-wiki-logo_YXux4b.webp
-          alt: The logo of Pinclime's Wiki
+        image:
+            url: >-
+                https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-wiki-logo_YXux4b.webp
+            alt: The logo of Pinclime's Wiki
     github:
         enableEditLink: true
         editLinkText: 在 Github 上編輯或回覆
@@ -117,3 +125,4 @@ publishing:
         action: useVault
         payload:
             - vault
+    enableTaskNotes: true
