@@ -2,15 +2,16 @@
 id: xf48hedybgqs1f92sknv0z7
 title: Daily Why
 desc: 我期待透過持續的練習提問，找出更多「更應該被解決的本質問題」
-updated: 1654008871582
+updated: 1654098462212
 created: 1651928732968
 ---
 
 Daily why 這個頁面下方會引用我在 Daily Journals 裡面問自己的各種「為什麼」問題。
 
-關於為什麼要每天問為什麼，可以參考我電子報寫過的這篇：[Why? Why? Why?](https://pinchlime.substack.com/p/why-why-why?s=w)
-
+關於為什麼要每天問為什麼，可以參考我電子報寫過的這篇：[Why? Why? Why?](https://pinchlime.substack.com/p/why-why-why?s=w)。
 我期待透過持續的練習提問，找出更多「更應該被解決的本質問題」。
+
+不過從 2022.06.01 開始，我決定先暫停「每天問 why」，因為目前的我還沒辦法每天都穩定產出我自己有興趣回答的 Why ，倒不如讓他自然發生就好。
 
 以下是依照時間排序的 Daily Why 內容，歡迎隨意瀏覽！
 

@@ -2,7 +2,7 @@
 id: j36gh6x6yf4u7nuupkcxzn7
 title: Changelog
 desc: ''
-updated: 1653653263962
+updated: 1654096548727
 created: 1652530546551
 ---
 
@@ -43,7 +43,17 @@ created: 1652530546551
 ### Changed
 
 - [x] 想把主要頁面的「children」拿掉，避免太多太混亂。（2022.05.18）
-    - 今天在 Dendron 的 discord 提問，沒過多久就得到解答：只要把 dendron.yml 裡面的 `enableHierarchyDisplay` 設定為 false 就好了。（後來發現這樣改還是無法解決我的問題，但回報後 Dendron 說這是 bug，等修完了再來更新。）
+    - 今天在 Dendron 的 discord 提問，沒過多久就得到解答：只要把 dendron.yml 裡面的 `enableHierarchyDisplay` 設定為 false 就好了。
+    - 2022.06.01 更新一下，在 0.97.0 版後，官方宣佈這個問題解決，但我仍持續出現，後來在 Github 上面的 [Harshita-mindfire (Harshita Joshi)](https://github.com/Harshita-mindfire) 很熱心的幫助我，幫我找到問題可能出在我 deploy 的 script "dendron-publish-site.sh" 上面，最終解決方式是：
+    ```
+    把
+    # yarn add @dendronhq/dendron-cli@latest
+    改成
+    yarn add @dendronhq/dendron-cli@latest
+    ```
+    這樣就好了！
+    目前看起來，每個頁面下方都沒有「children」區塊了！
+
 
 ---
 
