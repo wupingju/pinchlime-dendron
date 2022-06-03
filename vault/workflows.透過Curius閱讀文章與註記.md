@@ -1,8 +1,8 @@
 ---
 id: 0wb5bg2ysuovkin81q8cu3l
-title: 我的資訊處理第一步驟
+title: 透過 Curius 閱讀文章與註記
 desc: ''
-updated: 1654251441329
+updated: 1654258764097
 created: 1653656127567
 ---
 
@@ -14,4 +14,4 @@ created: 1653656127567
 
 每天晚上或週末比較有空的時間，就挑那些「待做筆記」的文，在 Heptabase 上面進行漸進式總結。
 
--> [[workflows.我如何透過Curius與Heptabase進行漸進式總結]]
+-> [[workflows.透過Heptabase製作文獻卡片]]

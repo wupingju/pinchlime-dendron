@@ -2,7 +2,7 @@
 id: ai4fz2sv1gr3qgmhmmwues6
 title: '2022-06-03'
 desc: ''
-updated: 1654252214425
+updated: 1654259146391
 created: 1654228241813
 traitIds:
   - journalNote
@@ -13,11 +13,13 @@ traitIds:
 ### Added
 
 * [[articles.雙向鏈接的一點思考]]
-* [[workflows.我如何透過Curius與Heptabase進行漸進式總結]]
+* [[workflows.透過Heptabase製作文獻卡片]]
+* [[workflows.透過Heptabase進行漸進式總結]]
 
 ### Updated
 
-* [[workflows.我的資訊處理第一步驟]]
+* [[workflows.透過Curius閱讀文章與註記]]
+* [[workflows.我撰寫Literature-notes的方式]]
 
 ## [[daily.why]]
 
