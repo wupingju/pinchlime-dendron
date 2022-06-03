@@ -2,7 +2,7 @@
 id: 0wb5bg2ysuovkin81q8cu3l
 title: 我的資訊處理第一步驟
 desc: ''
-updated: 1653656263125
+updated: 1654251441329
 created: 1653656127567
 ---
 
@@ -12,4 +12,6 @@ created: 1653656127567
 
 而讀完一篇文章後，我會透過 Curius 的 tags 功能，把文章分成「單純讀就好」、「待做筆記」、「做完筆記」這幾類。
 
-每天晚上或週末比較有空的時間，就挑那些「待做筆記」的文，打開 Logseq ，在上面開始寫 Literature notes。
+每天晚上或週末比較有空的時間，就挑那些「待做筆記」的文，在 Heptabase 上面進行漸進式總結。
+
+-> [[workflows.我如何透過Curius與Heptabase進行漸進式總結]]
