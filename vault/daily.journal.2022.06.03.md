@@ -2,7 +2,7 @@
 id: ai4fz2sv1gr3qgmhmmwues6
 title: '2022-06-03'
 desc: ''
-updated: 1654259146391
+updated: 1654262344043
 created: 1654228241813
 traitIds:
   - journalNote
@@ -15,6 +15,8 @@ traitIds:
 * [[articles.雙向鏈接的一點思考]]
 * [[workflows.透過Heptabase製作文獻卡片]]
 * [[workflows.透過Heptabase進行漸進式總結]]
+* [[articles.我們需要什麼樣的雙向鏈接，它適合你嗎？]]
+* [[evergreen.反向連結必須要提供充分的上下文語境]]
 
 ### Updated
 
