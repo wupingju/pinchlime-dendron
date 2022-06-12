@@ -93,11 +93,6 @@ publishing:
     copyAssets: false
     siteHierarchies:
         - home
-        - daily
-        - books
-        - evergreen
-        - tools
-        - workflows
     writeStubs: false
     siteRootDir: docs
     seo:
